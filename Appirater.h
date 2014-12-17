@@ -35,6 +35,7 @@
  */
 
 #import <Foundation/Foundation.h>
+#import "AppiraterConstants.h"
 #import "AppiraterDelegate.h"
 #import <StoreKit/StoreKit.h>
 
